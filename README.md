@@ -1,1 +1,1 @@
-# backwardeliminationinspyder
+# BACKWARD ELIMINATION (SPYDER)
